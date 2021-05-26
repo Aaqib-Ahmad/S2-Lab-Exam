@@ -1,1 +1,0 @@
-https://dashboard.heroku.com/apps/s2-lab-exam-web/deploy/github
